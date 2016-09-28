@@ -1,0 +1,10 @@
+{
+	"host": "a1a0shdleemymm.iot.us-east-1.amazonaws.com",
+	"port": 8883,
+	"clientId": "anras",
+	"thingName": "anras",
+	"caCert": "root-CA.crt",
+	"clientCert": "47a9839906-certificate.pem.crt",
+	"privateKey": "47a9839906-private.pem.key"
+}
+

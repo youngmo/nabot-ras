@@ -1,0 +1,19 @@
+{
+  "name": "nabot-aws",
+  "version": "1.0.0",
+  "description": "Slack Bot AWS",
+  "author": "",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/youngmo/nabot-ras.git"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "config": {},
+  "dependencies": {
+    "aws-iot-device-sdk": "^1.0.12",
+    "raspicam": "^0.2.13",
+    "request": "^2.75.0"
+  }
+}
